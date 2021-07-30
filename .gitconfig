@@ -1,0 +1,7 @@
+# This is Git's per-user configuration file.
+[user]
+	email = estefano.222.testigo@gmail.com
+	name = CEstefano
+# Please adapt and uncomment the following lines:
+#	name = carlos alberto estefano villacres
+#	email = estef@DESKTOP-Q2H92AC.(none)
